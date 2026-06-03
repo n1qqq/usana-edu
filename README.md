@@ -35,6 +35,12 @@ npm install
 npm run dev
 ```
 
+### Multi-Channel Type-Check for Development (Run in another terminal)
+
+```sh
+npx vue-tsc --noEmit --watch
+```
+
 ### Type-Check, Compile and Minify for Production
 
 ```sh
